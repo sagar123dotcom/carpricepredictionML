@@ -1,0 +1,4 @@
+carPricePredictionProjectVenv/
+venv/
+__pycache__/
+*.pyc
